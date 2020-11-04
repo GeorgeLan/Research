@@ -10,6 +10,12 @@
 ## 数据智能实验室-文本智能组简介
 
 ## 展示系统 & Demo
+### 川小妹
+| Dataset     | Intro                                                         |  Download Link                                                       | Paper |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| temp | 这是一段川小妹的描述  |  | **Deep Poetry: A Chinese Classical Poetry Generation System**, Association for the Advancement of Artificial Intelligence, Demonstrations Program. **AAAI** 2020 [[Paper]](https://arxiv.org/abs/1911.08212)[[Video]](https://youtu.be/jD1R_u9TA3M) |
+
+
 
 ## 开源代码
 
